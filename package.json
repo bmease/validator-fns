@@ -1,0 +1,19 @@
+{
+  "name": "validator-fns",
+  "version": "1.0.0",
+  "description": "Composable and functional validators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmease/validator-fns.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmease/validator-fns/issues"
+  },
+  "homepage": "https://github.com/bmease/validator-fns#readme"
+}
